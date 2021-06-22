@@ -16,7 +16,6 @@ def main():
 
     for _, row in resp.iterrows():
         roll = row['roll']
-        # regd.add(roll)
         if roll in regd:
             print("duplicate entry:", dem)
             print(row)
@@ -28,7 +27,7 @@ def main():
             print(row)            
     print(len(regd))
     outfile = open("regd.json", "w")
-    outfile.write(json.dumps(list(regd)))
+    outfile.write(json.dumps(list(set(regd))))
     outfile.close()
 
 if __name__ == '__main__':
