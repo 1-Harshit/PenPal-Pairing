@@ -3,6 +3,8 @@
 **Jun'22 PenPal Pairing Algo and script**  
 ---
 
+
+
 This was used for automated paring of PenPal initiative [Website Link](https://home.iitk.ac.in/~harshitr20/penpal/)
 
 ## How to use this:
@@ -16,4 +18,7 @@ This was used for automated paring of PenPal initiative [Website Link](https://h
 5. Run `mailinglist.py` to make list of all emails for further broadcast.
 
 ## Contact
-In case you face any isuue executing feel free to [contact](https://home.iitk.ac.in/~harshitr20#contact) me.
+In case you face any isuue executing feel free to [contact Me](https://home.iitk.ac.in/~harshitr20#contact) (Harshit Raj BT/BS Y20 Senator, Students' Senate).
+
+Other Core Team member: 
+- Shreya Agarwal and Somya Gupta, BT/BS Y20 Senator, Students' Senate
